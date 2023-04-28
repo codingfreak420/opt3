@@ -141,6 +141,10 @@ ul{
     }
 }
 
+benefits li {display: inline;}
+#benefits {text-align: center; }
+  h1 {font-family: 'Rubik Mono One', sans-serif}
+
 main fieldset {border-radius: 9px;}
 main {text-align: center; padding-left: 20%; padding-right: 20%; display: inline-block; }
 .required_line_required_asterisk {color: red;}
