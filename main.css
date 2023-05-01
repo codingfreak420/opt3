@@ -2,9 +2,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"); /* import font */
 
 :root{
-    --white: #f9f9f9;
+    --white: #2B1809;
     --black: #CDBAA5;
-    --gray: #85888C;
+    --gray: white;
 } /* variables*/
 
 /* Reset */
@@ -14,7 +14,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: var(--white);
+    background-color: white;
     font-family: "Poppins", sans-serif;
   
 }
