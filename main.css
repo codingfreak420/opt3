@@ -195,9 +195,8 @@ width: 75%;margin-right: -6%}
 
 #drivereq {padding-left: 25%}
 
-#samsara {max-width: 100%; padding-left: 6%}
-#prepass {max-width: 100%;
-padding-left: 5%}
+#samsara {max-width: 100%;}
+#prepass {max-width: 100%;}
 
 #drivereq {padding-top: 10%;font-size: 27px;}
 .drivereq {border-radius: 7px; align-items: center;}
