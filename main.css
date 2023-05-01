@@ -164,3 +164,6 @@ requestaquote {text-align: center;}
 .map {width: 395px; height: 275px;}
 
 requestaquote > form {padding-top: 20px; width: 400px; margin: auto;}
+
+h5, #benefits {font-family: 'Foldit', cursive;
+}
