@@ -168,6 +168,6 @@ requestaquote > form {padding-top: 20px; width: 400px; margin: auto;}
 #benefits {font-family: 'Foldit', cursive;
     font-family: 'Fredericka the Great', cursive; font-size: 30px;}
 
-requestaquote > form > #titl {font-family: 'Foldit', cursive;
-    font-family: 'Fredericka the Great', cursive; font-size: 50px;}
-    
+h5 {font-size: 50px; 
+font-family: 'Foldit', cursive;
+    font-family: 'Fredericka the Great', cursive; font-weight: normal;}
