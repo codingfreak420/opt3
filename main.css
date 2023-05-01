@@ -183,22 +183,23 @@ font-family: 'Foldit', cursive;
 .column1 {float: right;
 width: 75%;margin-right: -6%}
 
-#nighttruck {border-radius: 50px; position: auto; max-width: 80%; margin-left: 10%;}
+#nighttruck {border-radius: 50px; position: auto; max-width: 80%; margin-left: 17%;}
 
 
-#testimonial1 {font-family: 'Kalam', cursive; padding-left: 10%; padding-right: 10%; }
+#testimonial1 {font-family: 'Kalam', cursive; padding-left: 20%; padding-right: 10%; }
 
 .material-symbols-outlined {color: gold; 
 }
 
-#jrquote {padding-left: 8%;}
+#jrquote {padding-left: 17%;}
 
 #drivereq {padding-left: 13%}
 
 #samsara {max-width: 100%;}
-#prepass {max-width: 100%;}
+#prepass {max-width: 100%;
+}
 
-#drivereq {padding-top: 10%;font-size: 27px;}
+#drivereq {padding-top: 10%;font-size: 20px;}
 .drivereq {border-radius: 7px; align-items: center;}
 
-#fieldseteq {padding-left: 10px}
+#fieldseteq {padding-left: 15px;}
